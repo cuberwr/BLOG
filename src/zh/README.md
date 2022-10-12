@@ -14,5 +14,5 @@ projects:
     desc: 文章详细描述
     link: https://你的文章链接
 
-footer: \- 这里是时间和空间的尽头 -
+footer:  这里是时间和空间的尽头 -
 ---
