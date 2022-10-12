@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: home
-title: 博客主页
+title: WR的一格
 heroImage: /logo.svg
-heroText: 你博客的名称
+heroText: WR的一格
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 
 projects:
   - icon: project
     name: 项目名称
